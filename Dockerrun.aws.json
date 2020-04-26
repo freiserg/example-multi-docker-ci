@@ -18,7 +18,7 @@
         {
             "name": "worker",
             "image": "freiserg/multi-worker",
-            "hostname": "worker",
+            "hostname": "api",
             "essential": false,
             "memory": 128
         },
